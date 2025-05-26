@@ -1,0 +1,6 @@
+[
+  {"name": "laptop", "price": "1200", "category": "electronics", "stock": 10, "status": "active"},
+  {"name": "CHAIR", "price": null, "category": "furniture", "stock": 0, "status": "active"},
+  {"name": "desk", "price": "0", "category": "furniture", "stock": 5, "status": "inactive"},
+  {"name": "Monitor", "price": "300", "category": "electronics", "stock": 3, "status": "active"}
+]
