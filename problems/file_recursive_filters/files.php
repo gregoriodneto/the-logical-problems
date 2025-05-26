@@ -32,7 +32,8 @@ function filters($data)
     return $data;
 }
 
-$file_content = file_get_contents("/home/greg/Documentos/Projetos/Sistemas/the-logical-problems/problems/file_recursive_filters/files_recursive.json");
+$dir = __DIR__ . "/files_recursive.json";
+$file_content = file_get_contents($dir);
 $json = json_decode($file_content, true);
 $data = filters($json);
 print_r($data);
