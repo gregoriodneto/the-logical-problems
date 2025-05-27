@@ -1,0 +1,51 @@
+[
+  {
+    "user_id": 1,
+    "name": "Maria",
+    "age": 25,
+    "country": "Brazil",
+    "purchases": [100.50, 200.75, 50.25]
+  },
+  {
+    "user_id": 2,
+    "name": "Bruno",
+    "age": 30,
+    "country": "Brazil",
+    "purchases": [300.00]
+  },
+  {
+    "user_id": 3,
+    "name": "Clara",
+    "age": 28,
+    "country": "USA",
+    "purchases": [500.00, 250.00]
+  },
+  {
+    "user_id": 4,
+    "name": "Daniel",
+    "age": 35,
+    "country": "USA",
+    "purchases": []
+  },
+  {
+    "user_id": 5,
+    "name": "Eva",
+    "age": 40,
+    "country": "Canada",
+    "purchases": [100.00, 150.00, 75.00]
+  },
+  {
+    "user_id": 6,
+    "name": "Felipe",
+    "age": 27,
+    "country": "Brazil",
+    "purchases": []
+  },
+  {
+    "user_id": 7,
+    "name": "Grace",
+    "age": 33,
+    "country": "Canada",
+    "purchases": [200.00]
+  }
+]
