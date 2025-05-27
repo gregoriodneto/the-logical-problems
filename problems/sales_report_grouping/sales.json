@@ -1,0 +1,5 @@
+[
+  {"product_id": 1, "product_name": "mouse", "quantity": 2, "price": 50.0, "date": "2025-01-10"},
+  {"product_id": 1, "product_name": "mouse", "quantity": 3, "price": 50.0, "date": "2025-01-11"},
+  {"product_id": 2, "product_name": "teclado", "quantity": 1, "price": 100.0, "date": "2025-01-12"}
+]
