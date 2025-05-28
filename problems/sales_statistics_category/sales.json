@@ -1,0 +1,6 @@
+[
+  {"product_id": "P123", "product_name": "Smartphone", "category": "Electronics", "quantity": 2, "price": 999.99},
+  {"product_id": "P124", "product_name": "Laptop", "category": "Electronics", "quantity": 1, "price": 1999.99},
+  {"product_id": "P125", "product_name": "Book A", "category": "Books", "quantity": 5, "price": 15.0},
+  {"product_id": "P126", "product_name": "Book B", "category": "Books", "quantity": 10, "price": 20.0}
+]
