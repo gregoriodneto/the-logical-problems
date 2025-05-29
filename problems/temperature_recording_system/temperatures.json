@@ -1,0 +1,14 @@
+[
+    {
+        "city": "São Paulo",
+        "temperatures": [22, 24, 19, 20, 21, 23, 22]
+    },
+    {
+        "city": "Rio de Janeiro",
+        "temperatures": [26, 28, 24, 25, 27, 30, 29]
+    },
+    {
+        "city": "Curitiba",
+        "temperatures": [15, 14, 13, 17, 18, 16, 15]
+    }
+]
