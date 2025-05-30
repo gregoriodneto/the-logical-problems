@@ -1,0 +1,21 @@
+[
+  {
+    "user": "João",
+    "user_type": "Aluno",
+    "borrowed_books": 3,
+    "has_late_books": false,
+    "requested_books": [
+      {"title": "Python Basics", "stock": 2},
+      {"title": "Advanced Algorithms", "stock": 0}
+    ]
+  },
+  {
+    "user": "Maria",
+    "user_type": "Professor",
+    "borrowed_books": 5,
+    "has_late_books": true,
+    "requested_books": [
+      {"title": "Machine Learning", "stock": 1}
+    ]
+  }
+]
