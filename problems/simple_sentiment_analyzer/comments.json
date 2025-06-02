@@ -1,0 +1,7 @@
+[
+    {"client": "Maria", "comment": "O produto é ótimo, estou muito satisfeito!"},
+    {"client": "Bob", "comment": "Horrível, péssimo atendimento e produto ruim."},
+    {"client": "Carol", "comment": "Mais ou menos, poderia ser melhor."},
+    {"client": "Daniel", "comment": "Adorei, excelente qualidade e entrega rápida!"},
+    {"client": "Eve", "comment": "O produto não funciona, estou decepcionado."}
+]
