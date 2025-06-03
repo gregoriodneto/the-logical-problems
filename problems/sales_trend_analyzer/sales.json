@@ -1,0 +1,7 @@
+[
+    {"client": "Ana", "product": "Notebook", "quantity": 1, "unit_price": 3500, "date": "2025-05-01"},
+    {"client": "Bruno", "product": "Mouse", "quantity": 2, "unit_price": 50, "date": "2025-05-02"},
+    {"client": "Ana", "product": "Teclado", "quantity": 1, "unit_price": 150, "date": "2025-05-01"},
+    {"client": "Carlos", "product": "Monitor", "quantity": 1, "unit_price": 900, "date": "2025-05-03"},
+    {"client": "Bruno", "product": "Notebook", "quantity": 1, "unit_price": 3500, "date": "2025-05-02"}
+]
