@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Arthas",
+    "level": 3,
+    "experience": 150,
+    "battles_won": 5,
+    "battles_lost": 2,
+    "class": "Guerreiro"
+  },
+  {
+    "name": "Jaina",
+    "level": 7,
+    "experience": 400,
+    "battles_won": 8,
+    "battles_lost": 1,
+    "class": "Mago"
+  },
+  {
+    "name": "Legolas",
+    "level": 10,
+    "experience": 800,
+    "battles_won": 12,
+    "battles_lost": 3,
+    "class": "Arqueiro"
+  },
+  {
+    "name": "Sylvanas",
+    "level": 15,
+    "experience": 500,
+    "battles_won": 20,
+    "battles_lost": 5,
+    "class": "Arqueiro"
+  },
+  {
+    "name": "Thrall",
+    "level": 20,
+    "experience": 1800,
+    "battles_won": 30,
+    "battles_lost": 10,
+    "class": "Guerreiro"
+  },
+  {
+    "name": "Medivh",
+    "level": 18,
+    "experience": 1000,
+    "battles_won": 25,
+    "battles_lost": 7,
+    "class": "Mago"
+  }
+]
