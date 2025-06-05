@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Aragorn",
+    "class": "Guerreiro",
+    "inventory": [
+      {"item": "Espada Longa", "quantity": 1, "unit_price": 1500},
+      {"item": "Poção de Vida", "quantity": 5, "unit_price": 50}
+    ]
+  },
+  {
+    "name": "Legolas",
+    "class": "Arqueiro",
+    "inventory": [
+      {"item": "Arco Élfico", "quantity": 1, "unit_price": 2000},
+      {"item": "Flechas", "quantity": 50, "unit_price": 5}
+    ]
+  },
+  {
+    "name": "Gandalf",
+    "class": "Mago",
+    "inventory": [
+      {"item": "Cajado", "quantity": 1, "unit_price": 3000},
+      {"item": "Poção de Mana", "quantity": 3, "unit_price": 80}
+    ]
+  }
+]
