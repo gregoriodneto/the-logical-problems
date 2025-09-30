@@ -27,7 +27,7 @@ class DoublyLinkedList:
         new_node.prev = self.tail
         self.tail = new_node
         
-    def prepand(self, value):
+    def prepend(self, value):
         new_node = DoublyNode(value)        
         if self.head is None:
             self.head = new_node
@@ -36,6 +36,14 @@ class DoublyLinkedList:
         new_node.next = self.head
         self.head.prev = new_node
         self.head = new_node
+        
+    def find(self, value):
+        current = self.head
+        while current is not None:
+            if current.value == value:
+                return current
+            current = current.next
+        return None
         
     def remove(self, value):
         current = self.head
@@ -52,3 +60,21 @@ class DoublyLinkedList:
                 return True
             current = current.next
         return False
+
+if __name__ == "__main__":
+    lst = DoublyLinkedList()
+    lst.append(10)
+    lst.append(20)
+    lst.prepend(5)
+    print(lst) 
+    
+    found = lst.find(10)
+    print(found.value if found else "não achou")
+    
+    removed = lst.remove(10)
+    print("removido?", removed)
+    print(lst)
+    
+    removed = lst.remove(100)
+    print("removido?", removed)
+    print(lst)
