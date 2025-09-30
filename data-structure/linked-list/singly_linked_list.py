@@ -14,6 +14,17 @@ class LinkedList:
             vals.append(str(current.value))
             current = current.next
         return " -> ".join(vals)
+
+    def reverse(self):
+        prev = None
+        current = self.head
+        while current:
+            new_node = current.next
+            current.next = prev
+            prev = current
+            current = new_node
+        self.head = prev
+        
     
     def prepend(self, value):
         new_node = Node(value)
@@ -68,4 +79,7 @@ if __name__ == "__main__":
     
     removed = lst.remove(100)
     print("removido?", removed)
+    print(lst)
+    
+    lst.reverse()
     print(lst)
